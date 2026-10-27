@@ -26,3 +26,7 @@ This internship task provides practical experience in combining programming with
 In conclusion, the Stock Market Dashboard is a useful beginner-level project that demonstrates the practical application of Python in financial data analysis. It provides a simple way to examine historical stock prices and understand market movements through numerical information and graphical visualization. The knowledge gained from this project can support further learning in Python programming, data science, financial technology, and dashboard development.
 
 *OUTPUT*:
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3eefe74e-e998-4f76-a231-9e77d8695227" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/62d7d3b0-64a8-4f7c-9d66-65388a609826" />
