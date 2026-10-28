@@ -2,15 +2,30 @@
 
 *COMPANY*: CODTECH IT SOLUTIONS PRIVATE LIMITED
 
-*NAME*: SAMRAT BERA
+*FULL NAME*: SAMRAT BERA
 
 *INTERN ID*: CITS8956
 
 *DOMAIN*: PYTHON PROGRAMMING
 
-*DURATION*: 12 WEEKS
+*NO. OF WEEKS*: 12 WEEKS
 
 *MENTOR*: NEELA SANTHOSH KUMAR
+
+*PROJECT NAME*: STOCK MARKET DASHBOARD
+
+*PROJECT SCOPE*: The scope of this project is to develop a simple Stock Market Dashboard using Python that retrieves, analyzes, and displays historical stock market data in an understandable format. The project uses the yfinance library to collect stock information from Yahoo Finance and matplotlib to visualize stock price movements through a line graph.
+The dashboard allows users to enter a stock symbol, such as AAPL or RELIANCE.NS, and retrieve historical stock data for the previous month. It displays the latest available closing price, the highest price, and the lowest price during the selected period. The project also generates a graphical representation of closing prices over time, helping users understand historical price movements.
+The project includes basic input handling and data availability checking to display an appropriate message when stock information cannot be retrieved. It focuses on fundamental Python programming concepts, data handling, external library integration, and data visualization.
+The main scope of the project includes:
+Retrieving historical stock market data using Python.
+Accepting stock symbols from users.
+Displaying the latest closing, highest, and lowest prices.
+Visualizing stock price trends using line charts.
+Handling invalid stock symbols or unavailable data.
+Developing practical skills in Python programming and financial data analysis.
+The project is intended for educational purposes and beginner-level financial data analysis. It does not include automated trading, investment recommendations, or guaranteed real-time market prices. In the future, the dashboard can be enhanced with multiple-stock comparisons, interactive charts, customizable date ranges, and a graphical user interface using Streamlit.
+
 
 *DESCRIPTION*: 
 The Stock Market Dashboard is a Python-based internship project designed to retrieve, analyze, and visualize stock market data in a simple and user-friendly way. The main objective of this project is to understand how Python can be used for financial data analysis and graphical representation of stock prices. This project helps beginners learn about data collection, data processing, conditional statements, user input, and data visualization through a practical application.
